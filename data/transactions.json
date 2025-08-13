@@ -1,0 +1,21 @@
+{
+  "27f374ca-92fd-4ac7-9bf0-7320d88db0be": {
+    "id": "27f374ca-92fd-4ac7-9bf0-7320d88db0be",
+    "member_id": "36dcaae9-03ae-4b88-a3c0-cebec3974bd0",
+    "transaction_type": "borrow",
+    "book_id": "095cbc7b-f661-468f-98a8-c049b15f9881",
+    "amount": 0.0,
+    "due_date": "2025-08-27T14:30:15.143478",
+    "notes": "",
+    "status": "completed",
+    "processed_by": "system",
+    "processed_at": "2025-08-13T14:30:15.143507",
+    "parent_transaction_id": null,
+    "fine_amount": 0.0,
+    "return_date": null,
+    "is_overdue": false,
+    "days_overdue": 0,
+    "created_at": "2025-08-13T14:30:15.143500",
+    "updated_at": "2025-08-13T14:30:15.143509"
+  }
+}

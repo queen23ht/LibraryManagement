@@ -1,0 +1,19 @@
+# Library Management System Requirements
+# Python 3.8+ required
+
+# Core dependencies (using only Python standard library)
+# This project is designed to showcase OOP skills without external dependencies
+
+# Development dependencies (optional)
+# pytest>=7.0.0          # For unit testing
+# black>=22.0.0          # For code formatting
+# flake8>=4.0.0          # For linting
+# mypy>=0.950            # For type checking
+
+# Documentation dependencies (optional)
+# sphinx>=4.0.0          # For documentation generation
+# sphinx-rtd-theme>=1.0.0 # ReadTheDocs theme
+
+# Note: This project intentionally uses only Python standard library
+# to demonstrate core Python OOP skills without framework dependencies.
+# This makes it an excellent showcase for fundamental programming abilities.

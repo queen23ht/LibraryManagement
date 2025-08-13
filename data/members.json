@@ -1,0 +1,48 @@
+{
+  "34baec26-e86d-485f-a858-1e5d53dcec13": {
+    "id": "34baec26-e86d-485f-a858-1e5d53dcec13",
+    "first_name": "John",
+    "last_name": "Doe",
+    "membership_type": "public",
+    "date_of_birth": null,
+    "student_id": "",
+    "contact_info": {
+      "email": "",
+      "phone": "",
+      "address": ""
+    },
+    "status": "active",
+    "membership_start_date": "2025-08-13",
+    "membership_end_date": "2026-08-13",
+    "borrowed_books": [],
+    "reservation_history": [],
+    "fine_amount": 0.0,
+    "max_books_allowed": 3,
+    "created_at": "2025-08-13T14:29:34.655224",
+    "updated_at": "2025-08-13T14:29:34.655225"
+  },
+  "36dcaae9-03ae-4b88-a3c0-cebec3974bd0": {
+    "id": "36dcaae9-03ae-4b88-a3c0-cebec3974bd0",
+    "first_name": "Test",
+    "last_name": "User",
+    "membership_type": "public",
+    "date_of_birth": null,
+    "student_id": "",
+    "contact_info": {
+      "email": "",
+      "phone": "",
+      "address": ""
+    },
+    "status": "active",
+    "membership_start_date": "2025-08-13",
+    "membership_end_date": "2026-08-13",
+    "borrowed_books": [
+      "095cbc7b-f661-468f-98a8-c049b15f9881"
+    ],
+    "reservation_history": [],
+    "fine_amount": 0.0,
+    "max_books_allowed": 3,
+    "created_at": "2025-08-13T14:30:15.143010",
+    "updated_at": "2025-08-13T14:30:15.143515"
+  }
+}
