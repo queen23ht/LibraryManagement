@@ -186,7 +186,7 @@ class Transaction:
         # Đóng gói các thao tác giao dịch
 ```
 
-## 📊 Tính Năng Nổi Bật Cho CV
+## 📊 Tính Năng Nổi Bật 
 
 ### Kỹ Năng Kỹ Thuật Được Thể Hiện
 - **Thiết kế Hướng Đối Tượng**: Hệ thống phân cấp lớp và mối quan hệ phức tạp
@@ -259,12 +259,12 @@ Thiết kế modular giúp dễ dàng mở rộng:
 
 Dự án này thể hiện việc biết sử dụng:
 
-1. **Lập trình Python Nâng cao**: Khái niệm OOP phức tạp, decorators, properties
+1. **Lập trình Python**: Khái niệm OOP, decorators, properties
 2. **Kiến trúc Phần mềm**: Nguyên tắc clean architecture, design patterns
 3. **Mô hình Dữ liệu**: Mối quan hệ phức tạp, triển khai logic nghiệp vụ
 4. **Thiết kế Giao diện Người dùng**: Phát triển CLI, trải nghiệm người dùng
 5. **Chất lượng Code**: Testing, documentation, maintainability
-6. **Phát triển Chuyên nghiệp**: Cấu trúc dự án, sẵn sàng version control
+6. **Phát triển dự án**: Cấu trúc dự án, sẵn sàng version control
 
 ## 🚀 Cách Chạy Nhanh
 
